@@ -1,0 +1,8 @@
+DOUBLE-ENTRY CHECK SUMMARY
+==========================
+Records compared        : 6
+Fields compared         : 24
+Mismatched fields       : 3
+Field-level accuracy    : 87.5%
+Missing in entry B      : 7
+Missing in entry A      : 8
